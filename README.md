@@ -1,6 +1,9 @@
 [BlocksKit](https://zwaldowski.github.io/BlocksKit)
 ===================================================
 
+#### 変更内容
+* フォトライブラリへのアクセスコード（UIImagePickerController+BlocksKit）を削除
+
 Blocks in C and Objective-C are downright magical.  They make coding easier and potentially quicker, not to mention faster on the front end with multithreading and Grand Central Dispatch.  BlocksKit hopes to facilitate this kind of programming by removing some of the annoying - and, in some cases, impeding - limits on coding with blocks.
 
 BlocksKit is a framework for OS X Mountain Lion and newer, a static library for iOS 6 and iOS 7, and a framework for iOS 8 and newer.
@@ -47,4 +50,3 @@ Unsure about your rights?  [Read more.](http://opensource.org/licenses/MIT)
 Individual credits for included code exist in the header files and documentation. We thank them for their contributions to the open source community.
 
 Documentation help has been contributed by [Alex Gray](https://github.com/mralexgray).
-
